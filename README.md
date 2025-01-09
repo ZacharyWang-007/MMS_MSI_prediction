@@ -3,7 +3,7 @@ This is for the under-review paper A deep learning-based multi-modal multiplex-a
 
 ## Pipline
 <div align="center">
-  <img src="Fig1.pdf">
+  <img src="Fig1.png">
  </div>
  
 ## Preparation:
